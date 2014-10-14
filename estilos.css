@@ -1,0 +1,17 @@
+body {
+	background: #666;
+}
+
+table {
+	margin: 10em auto 0;
+}
+
+td {
+	background: #ccc;
+	height: 20px;
+	width: 20px;
+}
+
+.viva {
+	background: green;
+}
